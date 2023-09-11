@@ -1,0 +1,52 @@
+[
+    {
+        "id": "12345",
+        "cover": "https://i.ibb.co/Yt52Wss/Real-Estate-Facebook-Cover-Banner-15.jpg",
+        "title": "The Mystery of the Enchanted Forest",
+        "author": "Jane Doe",
+        "author_img": "https://media.npr.org/assets/img/2021/10/14/paulsen-c.brian-adams---getty-images_custom-2a2b19cf93295cc479a55de473720fbf9814d48f-s400-c85.webp",
+        "posted_date": "2023-09-12",
+        "reading_time": 28,
+        "hashtag": ["#Mystery ", "#Fantasy" ,"#Adventure"]
+    },
+    {
+        "id": "67890",
+        "cover": "https://i.ibb.co/L675LTS/Real-Estate-Facebook-Cover-Banner-10.jpg",
+        "title": "A Journey Through Time",
+        "author": "John Smith",
+        "author_img": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/e/b3/eb325640-4159-5f5b-b87d-5f16b0b8ceb5/5a8f4b5f2b51b.image.jpg?resize=990%2C743",
+        "posted_date": "2023-09-10",
+        "reading_time": 12,
+        "hashtag": ["#ScienceFiction "," #TimeTravel"]
+    },
+    {
+        "id": "13579",
+        "cover": "https://i.ibb.co/sWFkWTm/19330959.jpg",
+        "title": "Cooking Adventures",
+        "author": "Alice Johnson",
+        "author_img": "https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2020/01/07163629/author-at-work.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": 12,
+        "hashtag": ["#Cooking","#Recipes","#Food"]
+    },
+    {
+        "id": "24680",
+        "cover": "https://i.ibb.co/vkCsSXD/Real-Estate-Facebook-Cover-Banner-30.jpg",
+        "title": "The Art of Photography",
+        "author": "David Williams",
+        "author_img": "https://images.unsplash.com/photo-1508185140592-283327020902?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+        "posted_date": "2023-09-05",
+        "reading_time": 25,
+        "hashtag": ["#Photography","#Art", "#Creativity"]
+    },
+    {
+        "id": "98765",
+        "cover": "https://i.ibb.co/mCzd5Tf/travel-facebook-cover-banner-14.jpg",
+        "title": "Mindful Meditation",
+        "author": "Emily Davis",
+        "author_img": "https://media.istockphoto.com/id/976103260/photo/depressed-hispanic-girl-with-sad-emotions-and-feelings.jpg?s=2048x2048&w=is&k=20&c=3oENrwYgSEiuh3BZscabrxyWTLgy0RPYzXD99b19fsc=",
+        "posted_date": "2023-09-03",
+        "reading_time": 18,
+        "hashtag": ["#Meditation","#Mindfulness","#Wellness"]
+    }
+]
